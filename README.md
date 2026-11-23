@@ -1,1 +1,1 @@
-run `git  lfs install` before cloning 
+run `git lfs install` before cloning 
